@@ -1,4 +1,4 @@
-# <h1>Requirements
+
 ## <h2>Introduction
 Student Management System is based on the concept of managing student’s record.There’s a login system available for this system, the user can freely use its feature.
 This mini project contains limited features, but the essential one. This project is helpful for managing student information by adding, updating, removing, viewing, and searching for details.Talking about the features of this Simple system, the user can perform the CRUD operations to it. Like, add student details by entering his/her name, roll number, age, address, parents name, class, school name, etc. The user can also view all the available student records. Besides, the user can edit information as well as remove a student’s whole data. This system is developed using C Programming Language and different variables, strings have been used for the development of it.
